@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/domdev-todo-app/static/css/main.42954f33.css",
+    "main.js": "/domdev-todo-app/static/js/main.ab41174f.js",
+    "static/media/edit.svg": "/domdev-todo-app/static/media/edit.09b5bbbba72bd416e6401ff645f56617.svg",
+    "static/media/bucket.svg": "/domdev-todo-app/static/media/bucket.09ca346edaa1b1e7bcdbf0f550051617.svg",
+    "static/media/check.svg": "/domdev-todo-app/static/media/check.417231e4b3bde82e5f2e864b3deb2aa6.svg",
+    "index.html": "/domdev-todo-app/index.html",
+    "main.42954f33.css.map": "/domdev-todo-app/static/css/main.42954f33.css.map",
+    "main.ab41174f.js.map": "/domdev-todo-app/static/js/main.ab41174f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42954f33.css",
+    "static/js/main.ab41174f.js"
+  ]
+}
